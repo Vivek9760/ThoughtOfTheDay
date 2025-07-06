@@ -1,0 +1,1 @@
+- 💭 [Thought of the Day](https://vivek9760.github.io/ThoughtOfTheDay/)
