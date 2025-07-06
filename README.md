@@ -1,1 +1,1 @@
-- 💭 [Thought of the Day](https://vivek9760.github.io/ThoughtOfTheDay/)
+- 💭 [Live Demo](https://vivek9760.github.io/ThoughtOfTheDay/)
